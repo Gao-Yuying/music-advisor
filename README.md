@@ -6,7 +6,7 @@ A music web application using [Spotify's APIs.](https://developer.spotify.com/do
 ```
 https://accounts.spotify.com/authorize?client_id=[client_id_of_user]&redirect_uri=[your_server]&response_type=code
 ```
-![alt text](https://github.com/Gao-Yuying/music-advisor/blob/master/Music%20Advisor/task/src/advisor/res/auth.JPG "authorization page")
+![authorization page](https://github.com/Gao-Yuying/music-advisor/blob/master/Music%20Advisor/task/src/advisor/res/auth.JPG "authorization page")
 - `featured`: displays a list of Spotify-featured playlists with their links fetched from API.
 - `new`: displays a list of new albums with artists and links on Spotify.
 - `categories`: displays a list of all available categories on Spotify (just their names.)
@@ -16,4 +16,4 @@ https://accounts.spotify.com/authorize?client_id=[client_id_of_user]&redirect_ur
 - `exit`: shuts down the application.
 
 ## What you'll see
-![alt text](https://github.com/Gao-Yuying/music-advisor/blob/master/Music%20Advisor/task/src/advisor/res/demo.gif "demo")
+![demo.gif](https://github.com/Gao-Yuying/music-advisor/blob/master/Music%20Advisor/task/src/advisor/res/demo.gif "demo")
